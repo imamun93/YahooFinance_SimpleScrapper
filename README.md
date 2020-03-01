@@ -1,1 +1,1 @@
-# YahooFinance_SimpleScrapper
+# Yahoo Finance Simple Scrapper
